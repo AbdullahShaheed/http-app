@@ -1,0 +1,10 @@
+html {
+  background-color: rgb(114, 125, 136);
+  padding: 18px;
+}
+body {
+  margin: 0;
+  padding: 30px;
+  font-family: sans-serif;
+  background-color: rgb(160, 192, 186);
+}

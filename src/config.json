@@ -1,0 +1,5 @@
+{
+  "endPoint1": "https://jsonplaceholder.typicode.com/posts",
+  "endPoint2": "https://localhost:44378//api/customers",
+  "endPoint3": "https://localhost:44378//api/movies"
+}
